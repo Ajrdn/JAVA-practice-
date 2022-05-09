@@ -18,7 +18,7 @@ public class SwitchCase3 {
 				break;
 		}
 		
-		System.out.println(month + "¿ùÀº " + day + "ÀÏ±îÁö ÀÖ½À´Ï´Ù.");
+		System.out.println(month + "ì›”ì€ " + day + "ì¼ê¹Œì§€ ìˆìŠµë‹ˆë‹¤.");
 	}
 
 }
