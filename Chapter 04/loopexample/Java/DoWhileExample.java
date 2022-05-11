@@ -12,7 +12,7 @@ public class DoWhileExample {
 			num++;
 		}while(num < 1);
 		
-		System.out.println("sumÀÇ °ªÀº " + sum + "ÀÔ´Ï´Ù.");
+		System.out.println("sumì˜ ê°’ì€ " + sum + "ìž…ë‹ˆë‹¤.");
 	}
 
 }
