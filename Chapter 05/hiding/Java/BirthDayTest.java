@@ -13,7 +13,7 @@ class BirthDay {
 	public void setDay(int day) {
 		if(month == 2) {
 			if(day < 1 || day > 28) {
-				System.out.println("³¯Â¥ ¿À·ùÀÔ´Ï´Ù.");
+				System.out.println("ë‚ ì§œ ì˜¤ë¥˜ìž…ë‹ˆë‹¤.");
 			}
 		}
 		else {
