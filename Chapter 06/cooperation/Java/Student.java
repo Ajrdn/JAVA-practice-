@@ -27,7 +27,7 @@ public class Student {
 	}
 	
 	public void showInfo() {
-		System.out.println(studentName + "님의 남은 돈은 " + money + "원 입니다.");
+		System.out.println(studentName + "?? ?? ?? " + money + "? ???.");
 	}
 	
 }
