@@ -5,15 +5,15 @@ public class StudentTest {
 	public static void main(String[] args) {
 		
 		Student student1 = new Student("Lee");
-		student1.addSubject("±¹¾î", 100);
-		student1.addSubject("¼öÇĞ", 95);
+		student1.addSubject("êµ­ì–´", 100);
+		student1.addSubject("ìˆ˜í•™", 95);
 		
 		student1.showStudentInfo();
 		
 		Student student2 = new Student("Kim");
-		student2.addSubject("±¹¾î", 100);
-		student2.addSubject("¼öÇĞ", 90);
-		student2.addSubject("¿µ¾î", 80);
+		student2.addSubject("êµ­ì–´", 100);
+		student2.addSubject("ìˆ˜í•™", 90);
+		student2.addSubject("ì˜ì–´", 80);
 		
 		student2.showStudentInfo();
 
