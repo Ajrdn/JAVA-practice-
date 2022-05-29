@@ -6,7 +6,7 @@ public interface Buy {
 	
 	default void order() {
 		
-		System.out.println("±∏∏≈¡÷πÆ");
+		System.out.println("Íµ¨Îß§Ï£ºÎ¨∏");
 	}
 
 }
