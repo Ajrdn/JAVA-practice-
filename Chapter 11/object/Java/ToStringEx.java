@@ -24,7 +24,7 @@ public class ToStringEx {
 
 	public static void main(String[] args) {
 		
-		Book book = new Book("µÎÀÕÀÚ¹Ù", "ÀºÁ¾´Ô");
+		Book book = new Book("ë‘ì‡ìë°”", "ì€ì¢…ë‹˜");
 		System.out.println(book);
 		
 		String str = new String("test");
