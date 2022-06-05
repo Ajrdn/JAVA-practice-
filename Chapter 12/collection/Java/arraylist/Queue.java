@@ -15,7 +15,7 @@ public class Queue {
 	public String deQueue() {
 		
 		if(arrayQueue.size() == 0) {
-			System.out.println("Å¥°¡ ºñ¾îÀÖ½À´Ï´Ù.");
+			System.out.println("íê°€ ë¹„ì–´ìˆìŠµë‹ˆë‹¤.");
 			return null;
 		}
 		
