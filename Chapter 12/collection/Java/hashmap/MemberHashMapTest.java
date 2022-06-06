@@ -8,9 +8,9 @@ public class MemberHashMapTest {
 		
 		MemberHashMap memberHashMap = new MemberHashMap();
 		
-		Member member1 = new Member(101, "ÀÌ¼ø½Å");
-		Member member2 = new Member(102, "±èÀ¯½Å");
-		Member member3 = new Member(103, "½Å»çÀÓ´ç");
+		Member member1 = new Member(101, "ì´ìˆœì‹ ");
+		Member member2 = new Member(102, "ê¹€ìœ ì‹ ");
+		Member member3 = new Member(103, "ì‹ ì‚¬ì„ë‹¹");
 		
 		memberHashMap.addMember(member1);
 		memberHashMap.addMember(member2);
