@@ -34,7 +34,7 @@ public class MemberHashSet {
 			}
 		}
 		
-		System.out.println(memberID + "°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.");
+		System.out.println(memberID + "ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.");
 		return false;
 	}
 	
