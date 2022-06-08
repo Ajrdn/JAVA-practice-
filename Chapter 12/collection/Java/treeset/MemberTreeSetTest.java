@@ -8,9 +8,9 @@ public class MemberTreeSetTest {
 		
 		MemberTreeSet memberTreeSet = new MemberTreeSet();
 		
-		Member member1 = new Member(102, "ÀÌ¼ø½Å");
-		Member member2 = new Member(101, "±èÀ¯½Å");
-		Member member3 = new Member(103, "½Å»çÀÓ´ç");
+		Member member1 = new Member(102, "ì´ìˆœì‹ ");
+		Member member2 = new Member(101, "ê¹€ìœ ì‹ ");
+		Member member3 = new Member(103, "ì‹ ì‚¬ì„ë‹¹");
 		
 		memberTreeSet.addMember(member1);
 		memberTreeSet.addMember(member2);
