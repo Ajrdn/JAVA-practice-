@@ -5,7 +5,7 @@ public class Water {
 	@Override
 	public String toString() {
 		
-		return "Á¦·á´Â water ÀÔ´Ï´Ù.";
+		return "ì œë£ŒëŠ” water ìž…ë‹ˆë‹¤.";
 	}
 
 }
