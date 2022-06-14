@@ -20,7 +20,7 @@ public class ReduceTest {
 
 	public static void main(String[] args) {
 		
-		String[] greetings = {"¾È³çÇÏ¼¼¿ä!", "hello", "Good morning", "¹Ý°©½À´Ï´Ù!"};
+		String[] greetings = {"ì•ˆë…•í•˜ì„¸ìš”!", "hello", "Good morning", "ë°˜ê°‘ìŠµë‹ˆë‹¤!"};
 		
 		System.out.println(Arrays.stream(greetings).reduce("", (str1, str2) -> {
 			if(str1.getBytes().length >= str2.getBytes().length)
