@@ -13,7 +13,7 @@ public class RandomAccessFileTest {
 		System.out.println(rf.getFilePointer());
 		rf.writeDouble(3.14);
 		System.out.println(rf.getFilePointer());
-		rf.writeUTF("¾È³çÇÏ¼¼¿ä.");
+		rf.writeUTF("ì•ˆë…•í•˜ì„¸ìš”.");
 		System.out.println(rf.getFilePointer());
 		
 		rf.seek(0);
