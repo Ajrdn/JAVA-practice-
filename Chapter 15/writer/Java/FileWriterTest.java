@@ -11,7 +11,7 @@ public class FileWriterTest {
 			fw.write("A");
 			char[] cbuf = {'B', 'C', 'D'};
 			fw.write(cbuf);
-			fw.write("?????");
+			fw.write("안녕하세요");
 			fw.write(cbuf, 1, 2);
 			fw.write("123");
 		} catch(IOException e) {
